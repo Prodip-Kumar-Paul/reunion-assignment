@@ -1,6 +1,6 @@
 <a href="https://documenter.getpostman.com/view/13494466/2s93XvXkJE">POSTMAN DOCUMENTATION</a>
 
-<a href="https://reunion-backend-8wrl.onrender.com">Render Deploy Link</a>
+<a href="https://reunion-backend-ndw7.onrender.com">Render Deploy Link</a>
 
 <a href="https://github.com/Prodip-Kumar-Paul/reunion-assignment">GitHub Repo</a>
 
@@ -52,7 +52,7 @@ DEV_JWT_ACTIVATE=xxxxxxxxxxx
 ## Start Server
 
 ```bash
-git clone https://github.com/Prodip-Kumar-Paul/reunion-assignment
+git clone https://github.com/Prodip-Kumar-Paul/reunion-assignment.git
 cd reunion-assignment
 npm install
 npm run start:dev
