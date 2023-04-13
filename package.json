@@ -9,7 +9,7 @@
     "start:dev": "SET NODE_ENV=dev & nodemon --inspect server.js"
   },
   "type": "module",
-  "author": "Aritra Sen",
+  "author": "Prodip",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.21"
